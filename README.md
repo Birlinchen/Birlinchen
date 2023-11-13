@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jinjie Chen
+- 👋 Hi, I’m Jinjie Chen, PhD in applied stats.
 - 👀 I’m interested in Bayesian Statistics, Biostatistics and Machine Learning
 - 🌱 I’m currently an experienced statistician in Pharm industry.
 - 💞️ I’m looking to collaborate on Bayesian Statistics and early phase clinical design
