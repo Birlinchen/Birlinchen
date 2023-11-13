@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jinjie Chen
 - 👀 I’m interested in Bayesian Statistics, Biostatistics and Machine Learning
-- 🌱 I’m currently learning 
+- 🌱 I’m currently an experienced statistician in Pharm industry.
 - 💞️ I’m looking to collaborate on Bayesian Statistics and early phase clinical design
 - 📫 How to reach me: please feel free to email me via: jasoncjj2016@gmail.com.
 
